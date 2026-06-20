@@ -62,6 +62,15 @@ export const PROJECTS: Project[] = [
     github: 'https://github.com/harshad516-stack/Speech-Recognition-System',
     image: '/images/5.jpeg'
   }
+  ,
+  {
+    id: '6',
+    title: 'Whatsapp Clone',
+    description: 'A modern WhatsApp Clone built using Flutter that replicates the core functionality and user interface of the WhatsApp messaging application.',
+    tech: ['Flutter', 'Dart'],
+    github: 'https://github.com/harshad516-stack/WhatsApp-Clone',
+    image: '/images/6.jpeg'
+  }
 ];
 
 export const SKILLS: Skill[] = [
